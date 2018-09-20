@@ -1,4 +1,4 @@
-# Privacy Advise Plugin for Firefow
+# Privacy Advise Plugin for Firefox
 ## Compuer engineering final project
 **Paula de la Hoz Garrido**
 
